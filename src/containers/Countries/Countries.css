@@ -2,7 +2,6 @@
   max-height: 100vh;
   overflow: auto;
   display: flex;
-  flex-direction: row;
   border: .5px solid rgb(174, 174, 174);
   margin-top: 1rem;
 }
@@ -15,6 +14,8 @@
 }
 
 .country-info-container {
+  display: flex;
+  justify-content: center;
   max-height: 100vh;
   overflow: auto;
   width: 70%;

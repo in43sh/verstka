@@ -1,0 +1,11 @@
+.country-info-main-container {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.img {
+  height: 100px;
+  width: auto;
+}
